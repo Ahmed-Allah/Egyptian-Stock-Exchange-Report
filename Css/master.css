@@ -309,7 +309,7 @@ hr{
   direction: ltr;
   background-size: cover;
   text-align: center;
-  background-image: url(images/Header_new.jpg);
+  background-image: url(../images/Header_new.jpg);
   color: white;
   padding: 30px 10px;
   font-size: 18px;
